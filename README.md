@@ -29,6 +29,9 @@ gov_dn_cd, bntr_nm, signgu_nm, adstrd_nm, de, sex_se, year_se, cnsmr_popltn_co �
 
 
 # Model
+Categorical Columns을 처리하는데 있어서 One-hot encoding 방식으로 처리 하기엔 몇몇 Columns에서의 Unique한 값이 너무 많아서 무리라고 판단했습니다.<br><br>
+그렇기에 Embedding 방식을 채택하여 모델을 구성하였습니다.<br><br>
+데이터 분석은 거의 하지 않은 상태로 모델을 만들었습니다. <br><br>
+따라서 의미있는 데이터 분석을 수행한 값을 모델에 넣어준다면 더 좋은 성능을 기대할 수 있습니다.<br><br>
 
-데이터 분석은 거의 하지 않은 상태로 모델을 만들었습니다. <br>
-따라서 의미있는 데이터 분석을 수행한 값을 모델에 넣어준다면 더 좋은 성능을 기대할 수 있습니다.
+### 추가로 더 적합한 모델이나 좋은 모델이 있다면 [ISSUE](https://github.com/tobe-honest/2021.AI.TermProject/issues)에 의견을 남겨주세요 !
