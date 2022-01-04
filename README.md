@@ -26,3 +26,9 @@ gov_dn_cd, bntr_nm, signgu_nm, adstrd_nm, de, sex_se, year_se, cnsmr_popltn_co �
 
 # Kaggle
 ### [Kaggle Competition](https://www.kaggle.com/c/coffeecsmr/data)에 참여해보세요 !<br>
+
+
+# Model
+
+데이터 분석은 거의 하지 않은 상태로 모델을 만들었습니다. <br>
+따라서 의미있는 데이터 분석을 수행한 값을 모델에 넣어준다면 더 좋은 성능을 기대할 수 있습니다.
